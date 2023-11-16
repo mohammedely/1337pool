@@ -4,11 +4,11 @@ void ft_is_negative(int n)
 {
   if (n > -1)
   {
-    write(1, "Positive", 9);
+    write(1, "Positive", 8);
   }
   else
   {
-    write(1, "Negative", 9);
+    write(1, "Negative", 8);
   }
 }
 
